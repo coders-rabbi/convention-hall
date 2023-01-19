@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-img-1{
+    background: url(../images/banner.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.banner-img-2{
+    background: url(../images/wedding.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+.banner-img-3{
+    background: url(../images/people.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+.popup{
+    position: relative;
+    border-left: 10px solid red;
+    margin: -130px 0px 0px 350px;
+    background-color: #fff;
+}
+.btn-card{
+    background: hwb(322 59% 4% / 0.231) !important;
+}
+.hot{
+    margin-top: -50px;
+    margin-left: 110px;
+    background: #FF4E4E;
+    width: 100px;
+}
+.person-img{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+.card{
+    padding: 40px 50px 0px ;
+}
